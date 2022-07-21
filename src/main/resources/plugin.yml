@@ -1,0 +1,5 @@
+name: AutoFeedLite
+version: '${version}'
+main: it.fedet.autofeedlite.AutoFeedLite
+authors: [ FedeT_, ThreeWhi ]
+description: Un PL per la OneBlock che ora fa merda
